@@ -444,6 +444,11 @@ a {
   border: none;
 }
 
+.table.nutrition-table tr:last-child td {
+	border: none;
+}
+
+
 
 
 
